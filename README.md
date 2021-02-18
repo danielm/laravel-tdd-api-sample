@@ -1,0 +1,3 @@
+Simple Laravel app, developed using TDD....
+
+ToDo: Add login with... sanctum? so we can login using Postman and such
